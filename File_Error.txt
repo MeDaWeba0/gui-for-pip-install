@@ -1,0 +1,9 @@
+Languajes:
+
+Español-Spanish:
+
+    Si te sale este error es que GUI-FOR-PIP_INSTALL no reconoce tu instalación de python.
+
+Englis:
+
+	If you are using a GUI that does not have Python installed on your system.
